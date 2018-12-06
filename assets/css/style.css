@@ -70,7 +70,7 @@ body {
     border-left: 1px solid #ccc;
   }
   .body-bg {
-    background-image: url('assets/images/bg-w.jpg');
+    background-image: url('../images/white-bg.jpg');
     background-repeat: repeat;
     min-height: 588px;
     border-top: 3px solid #ccc;
